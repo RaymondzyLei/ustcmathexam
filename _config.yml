@@ -13,7 +13,7 @@ title                    : "USTC数学课程往年试卷"
 title_separator          : "-"
 name                     : &name "USTC数学课程试卷"
 description              : &description "我们的征途是星辰大海！"
-url                      : https://raymondzylei.me/ustcmathexam # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://raymondzylei.me/ustcmathexam/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ustcmathexam/ustcmathexam.github.io"
 
