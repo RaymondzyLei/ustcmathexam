@@ -111,6 +111,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - USTC
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
