@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
+**您正在访问的是由[RaymondzyLei](https://raymondzylei.me)从原站复刻的网页，解决了普通网络条件无法访问的问题，但是版本可能落后于[原站](https://ustcmathexam.github.io/)**
+
 欢迎各位科大同学访问这个主页。由于2013级数院的章俊彦学长已经入职科大数院，他的 [USTC学习资料页面](https://www.zhangjy9610.me/USTCdata.html) 下架了所有往年数学试卷。现由本帐号接手运营该工作，欢迎各位科大同学投稿试卷。本主页并不根据投稿时间实时更新，请勿催更。本页面的运营者仍为科大数学专业毕业生，与科大数院官方无关。
 
-2026.1.11更新：[USTC物理课往年试卷](https://ustcphyexam.github.io/) 站点已成立（运营者与本页面运营者无关），欢迎各位访问。
+2026.1.11更新：[USTC物理课往年试卷](https://ustcphyexam.github.io/) 站点已成立（运营者与本页面运营者无关），欢迎各位访问，以及[复刻版](https://raymondzylei.me/ustcphyexam/)。
 
 
 试卷投稿须知
